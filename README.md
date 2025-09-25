@@ -150,7 +150,8 @@
 ![image](https://github.com/user-attachments/assets/6cb60bd5-c59f-45b6-9f31-8db06a0f3575)
 
 ## ERD
-[[ERD](https://www.erdcloud.com/d/GrxcjAyDaPdA284sf)]
+<img width="3481" height="1528" alt="erd 초안 (1)" src="https://github.com/user-attachments/assets/a8af19a8-83bc-4b21-a6f0-0375f8107e7b" />
+
 
 ## System Architecture
 ![image](https://github.com/user-attachments/assets/a0d8bb40-823d-4fa6-b2d8-3c0fdc72f5ca)
